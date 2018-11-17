@@ -1,5 +1,5 @@
 <?php
-namespace XSystems\XUI;
+namespace XSystems\XUI\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
