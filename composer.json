@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "XSystems\\XCore\\Providers\\XUIServiceProvider"
+                "XSystems\\XUI\\Providers\\XUIServiceProvider"
             ]
         }
     },
